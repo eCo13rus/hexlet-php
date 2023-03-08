@@ -1,1 +1,4 @@
-Hello, Hexlet
+<?php
+echo 'Hello, Hexlet';
+
+?>
